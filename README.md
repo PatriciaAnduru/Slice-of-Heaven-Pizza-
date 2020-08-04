@@ -28,7 +28,7 @@ If you find a bug (the website couldn't handle the query and or gave undesired r
 
 If you'd like to request a new function, feel free to do so by opening an issue here. Please include sample queries and their corresponding results.
 ## Live Link
-https://patriciaanduru.github.io/Slice-of-Heaven/
+https://patriciaanduru.github.io/Slice-of-Heaven-Pizza-/
 ## Support and contact details
 Email andurupatricia@gmail.com 
 # Phone +254704827097 /  0735454819
